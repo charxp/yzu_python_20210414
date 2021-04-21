@@ -11,7 +11,7 @@ c = a + b
 print(c)
 print(a, b, c)
 
-h = 1.81 #身高 (m)
+h = 1.81 #身高 (m)ssss
 w = 80.0 # 體重
 bmi = w / h**2
 print(bmi)
